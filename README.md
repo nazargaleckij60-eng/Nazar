@@ -436,4 +436,4 @@
             observer.observe(card);
         });
     </script>
-``
+
