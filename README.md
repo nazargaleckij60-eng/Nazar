@@ -1,5 +1,5 @@
 # Nazar
-Я начальный разработчик веб-сайтов и хочу выложить свой первый сайт на тему советы по физике 8-9 классов 
+
 [test.html](https://github.com/user-attachments/files/23690013/test.html)
 <html lang="ru">
 <head>
@@ -436,6 +436,4 @@
             observer.observe(card);
         });
     </script>
-</body>
-</html>
-```
+``
