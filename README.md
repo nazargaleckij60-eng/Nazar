@@ -1,6 +1,6 @@
 # Nazar
 
-(https://github.com/user-attachments/files/23690013/test.html)
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -435,5 +435,5 @@
             card.style.transition = "opacity 0.5s ease, transform 0.5s ease";
             observer.observe(card);
         });
-    </script>
+   
 
