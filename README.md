@@ -1,6 +1,6 @@
 # Nazar
 
-[test.html](https://github.com/user-attachments/files/23690013/test.html)
+(https://github.com/user-attachments/files/23690013/test.html)
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
